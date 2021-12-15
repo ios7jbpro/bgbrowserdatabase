@@ -1,0 +1,240 @@
+[
+{
+  	"version":"1.23",
+  	"desc":"Contains:
+•MONET ENGINE SUPPORT FOR A12!
+•Android 11 and below will still stay as how it was as there is no monet
+•Totally get rid of dark mode in android 8 and below to fix errors that are not fixable without getting rid of dark mode
+•Some small bugfixes
+•Removed unnecessary stuff",
+"button":"true"
+  	},
+{
+  	"version":"1.22",
+  	"desc":"Contains:
+•Fix bottom bar UI in dark mode
+•Fix wrong colored cards in settings
+•Remove MIUI spinners
+•Remove unneeded activities",
+"button":"false"
+  	},
+{
+  	"version":"1.21",
+  	"desc":"Contains:
+•New bottom bar UI
+•Update YtPlayerLib to 7.7
+•Add update log section with ability to update
+•Fix some small bugs",
+"button":"false"
+  	},
+  	{
+  	"version":"1.20",
+  	"desc":"Update YtPlayerLib to v7.6reborn+A12 style cards+Remove old PiP method",
+"button":"false"
+  	},
+{
+  	"version":"September6#1",
+  	"desc":"Added white status bar",
+"button":"false"
+  	},
+{
+  	"version":"July4#4",
+  	"desc":"Added an option for material navbar(Q only)",
+"button":"false"
+  	},
+{
+  	"version":"July4#3",
+  	"desc":"Added Telegram button",
+"button":"false"
+  	},
+{
+  	"version":"July4#2",
+  	"desc":"Added Bing(thanks for recommendation Aless!)
+Fixed translations that does not take effect
+Added one more person&edited Credits page",
+"button":"false"
+  	},
+{
+  	"version":"July4#1",
+  	"desc":"Added DuckDuckGo&Yahoo(thanks for recommendation @Stingenstein!)",
+"button":"false"
+  	},
+{
+  	"version":"July2#2",
+  	"desc":"Removed Webud search button",
+"button":"false"
+  	},
+{
+  	"version":"July2#1",
+  	"desc":"Added option to change default search engine
+Fixed [June 29#4] and [July 1#1] log did not show up some updates",
+"button":"false"
+  	},
+{
+  	"version":"July1#2",
+  	"desc":"Added option to change default search engine
+Fixed [June 29#4] and [July 1#1] log did not show up some updates",
+"button":"false"
+  	},
+{
+  	"version":"July1#1",
+  	"desc":"Expired code:FANOFTESLA2020
+Fixed [June 29#4] log did not show up an update",
+"button":"false"
+  	},
+{
+  	"version":"June 29#4",
+  	"desc":"Made Dark Mode Premium
+Some fixes under the hood",
+"button":"false"
+  	},
+{
+  	"version":"June 29#3",
+  	"desc":"Dark mode added",
+"button":"false"
+  	},
+{
+  	"version":"June 29#2",
+  	"desc":"Fixed some translations(thanks Wind/owz!)",
+"button":"false"
+  	},
+{
+  	"version":"June 29#1",
+  	"desc":"Changed interface
+Changed link of Webud search",
+"button":"false"
+  	},
+{
+  	"version":"June 28#9",
+  	"desc":"Added Webud search",
+"button":"false"
+  	},
+{
+  	"version":"June 28#8",
+  	"desc":"Added spacing option for navigation gestures
+Changed settings interface",
+"button":"false"
+  	},
+{
+  	"version":"June 28#7",
+  	"desc":"Made update where it attempts to fix a bug that causes codebase to mess up",
+"button":"false"
+  	},
+{
+  	"version":"June 28#6",
+  	"desc":"Made url bar actually material
+Changed loading animation beacuse doesnt wotk with material url bar",
+"button":"false"
+  	},
+{
+  	"version":"June 28#5",
+  	"desc":"Fixed English language does not take effect",
+"button":"false"
+  	},
+{
+  	"version":"June 28#4",
+  	"desc":"Vietnam translation(thanks Reggyxt!)",
+"button":"false"
+  	},
+{
+  	"version":"June 28#3",
+  	"desc":"Added language support",
+"button":"false"
+  	},
+{
+  	"version":"June 28#2",
+  	"desc":"Added Google Sans Font(thanks for sending me file/suggestion Aless/Solid Designs!)",
+"button":"false"
+  	},
+{
+  	"version":"June 28#1",
+  	"desc":"Enabled upload(Thanks for testing Solid Designs!)",
+"button":"false"
+  	},
+{
+  	"version":"June 27",
+  	"desc":"Fixed a tab glitch(thanks Aless!)",
+"button":"false"
+  	},
+{
+  	"version":"June 26#7" ,
+  	"desc":"Added two more persons to Credits
+Fixed home button doesnt work on Tab 3(thanks for report,Wind/owz!)",
+"button":"false"
+  	},
+{
+  	"version":"June 26#6",
+  	"desc":"Fixed not added [June 26#5] log",
+"button":"false"
+  	}, 
+{
+  	"version":"June 26#5",
+  	"desc":"Added credits page",
+"button":"false"
+  	},
+{
+  	"version":"June 26#4",
+  	"desc":"Changed IME type to 'done'",
+"button":"false"
+  	},
+{
+  	"version":"June 26#3",
+  	"desc":"Fixed bypassing setup screen",
+"button":"false"
+  	},
+{
+  	"version":"June 26#2",
+  	"desc":"Update Log Page
+Home page(when there is no URL loaded)
+New Icon,thanks to Solid Designs from Telegram",
+"button":"false"
+  	},
+{
+  	"version":"June 26#1",
+  	"desc":"Welcome/Setup Screen",
+"button":"false"
+  	},
+{
+  	"version":"June 18",
+  	"desc":"Third Tab[EX]
+Interface fixes",
+"button":"false"
+  	},
+{
+  	"version":"June 10#4",
+  	"desc":"New outlined material icons",
+"button":"false"
+  	},
+	{
+  	"version":"June 10#3",
+  	"desc":"Home Page URL Editing",
+"button":"false"
+  	},
+{
+  	"version":"June 10#2",
+  	"desc":"Download enabled",
+"button":"false"
+  	},
+{
+  	"version":"June 10#1",
+  	"desc":"Experimental Features",
+"button":"false"
+  	},
+	{
+  	"version":"June 9#4",
+  	"desc":"Adaptive Opening Removed
+Loading circle removed
+Changed position of icons for more space",
+"button":"false"
+  	},
+{
+  	"version":"June 9#3",
+  	"desc":"Material URL bar",
+"button":"false"
+  	},
+  	{
+  	"version":"June 9#1",
+  	"desc":"App translated to English",
+"button":"false"
+  	}
+  	]
