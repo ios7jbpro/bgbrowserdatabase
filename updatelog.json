@@ -1,5 +1,13 @@
 [
 {
+  	"version":"1.24",
+  	"desc":"Contains:
+•Floating URL bar
+•Some small bugfixes
+•Remove unneeded codes",
+"button":"true"
+  	},
+{
   	"version":"1.23",
   	"desc":"Contains:
 •MONET ENGINE SUPPORT FOR A12!
@@ -7,7 +15,7 @@
 •Totally get rid of dark mode in android 8 and below to fix errors that are not fixable without getting rid of dark mode
 •Some small bugfixes
 •Removed unnecessary stuff",
-"button":"true"
+"button":"false"
   	},
 {
   	"version":"1.22",
