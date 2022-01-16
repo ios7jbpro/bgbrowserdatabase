@@ -1,7 +1,13 @@
 [
   	{
-  	"update-version":"1.24",
-  	"desc":"",
+  	"update-version":"1.25",
+  	"desc":"•Mix overlays to be one to remove needless code
+•Add lotties for some loading animations
+•Bugfixes for tabs
+•Bugfixes for URL bar
+•Bugfix for saving as picture
+•Bugfix for share
+•Stabilize normal usage",
   	"link":"https://github.com/ios7jbpro/bg-browser-2/blob/main/bin/BgBrowser2.apk?raw=true"
   	}
   	]
